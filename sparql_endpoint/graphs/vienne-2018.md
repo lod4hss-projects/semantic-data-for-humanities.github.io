@@ -4,7 +4,7 @@ title: Fouilles à Vienne 2018
 permalink: /sparql_endpoint/vienne-2018
 ---
 
-<h2>Fouilles à Vienne 2018</h2>
+
 
     <div>
       <p>Références du chantier :</p>
