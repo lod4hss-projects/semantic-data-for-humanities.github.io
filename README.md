@@ -1,6 +1,5 @@
----
-title: Semantic Data for Humanities <br/> and Social Sciences
----
+     
+
 
 ## Documentation
 
