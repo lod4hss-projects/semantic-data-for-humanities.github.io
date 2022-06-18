@@ -1,7 +1,7 @@
 ---
 layout: page
 title: SPARQL-endpoint (hosted by ABES)
-permalink: /sparql_endpoint/endpoint_descripion
+permalink: /sparql_endpoint/endpoint_description
 ---
 
 
