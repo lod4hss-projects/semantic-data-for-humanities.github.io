@@ -5,9 +5,12 @@ permalink: /sparql_endpoint/endpoint_description
 ---
 
 
-# SPARQL-endpoint (hosted by ABES)
+## SPARQL-endpoint (hosted by ABES)
 
-Address : https://dataforhumanities.abes.fr/sparql
+[Go to SPARQL-endpoint](https://dataforhumanities.abes.fr/sparql)
+
+
+
 
 This SPARQL-endpoint is hosted by the Agence bibliographique de l'enseignement supérieur
 

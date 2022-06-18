@@ -1,4 +1,4 @@
-———————
+[GitHub main repository](https://github.com/Semantic-Data-for-Humanities)
 
 ## Documentation
 
