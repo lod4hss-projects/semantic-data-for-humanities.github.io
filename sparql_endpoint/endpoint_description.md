@@ -1,7 +1,18 @@
+---
+layout: page
+title: SPARQL-endpoint (hosted by ABES)
+permalink: /sparql_endpoint/endpoint_descripion
+---
+
+
 # SPARQL-endpoint (hosted by ABES)
 
-This SPARQL-endpoint est structuré en graphes qui publient des jeux de données issus de la recherche en SHS.
+Address : https://dataforhumanities.abes.fr/sparql
 
-Les informations que contiennent les données ont été sémantifiées en utilisant l'écosystème d'extensions du CIDOC CRM que comprend le projet Semantic Data for Humanities and Social Sciences (SDHSS).
+This SPARQL-endpoint is hosted by the Agence bibliographique de l'enseignement supérieur
 
-Les entités qu'elles décrivent sont alignées ou directement identifées avec les IdRef.
+It is structured in graphs that publish datasets stemming from SHS research.
+
+The information contained in the data has been semantified using the ecosystem of CIDOC CRM extensions developed by the Semantic Data for Humanities and Social Sciences (SDHSS) project.
+
+The entities they describe are aligned or directly identified with the IdRef authority files.

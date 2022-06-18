@@ -1,14 +1,14 @@
 
-Un projet de sémantisation et réutilisation de données de la recherche en SHS
-
 ## Documentation
 
 
-## Projets
+## Projects
 
 
-## SPARQL-endpoint
+## SPARQL-endpoint (hosted by ABES)
+
+<a href="sparql_endpoint/endpoint_description">SPARQL-endpoint description</a>
 
 ### Graphs
 
-<a href="sparql_endpoint/vienne-2018">Chantier de fouilles Vienne 2018</a>
+<a href="sparql_endpoint/graphs/vienne-2018">Chantier de fouilles Vienne 2018</a>
