@@ -8,8 +8,8 @@
 
 ## SPARQL-endpoint (hosted by ABES)
 
-<a href="sparql_endpoint/endpoint_description">SPARQL-endpoint description</a>
+<a href="sparql-endpoint/endpoint-description">SPARQL-endpoint description</a>
 
 ### Graphs
 
-<a href="sparql_endpoint/graphs/vienne-2018">Chantier de fouilles Vienne 2018</a>
+<a href="sparql-endpoint/vienne-2018">Chantier de fouilles Vienne 2018</a>
