@@ -1,7 +1,5 @@
 ---
-layout: page
-title: Fouilles à Vienne 2018
-permalink: /sparql_endpoint/vienne-2018
+permalink: /sparql-endpoint/vienne-2018
 ---
 
 

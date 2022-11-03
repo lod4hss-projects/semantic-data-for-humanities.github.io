@@ -13,5 +13,3 @@
 ### Graphs
 
 <a href="sparql-endpoint/vienne-2018">Chantier de fouilles Vienne 2018</a>
-
-

@@ -1,7 +1,6 @@
 ---
-layout: page
-title: SPARQL-endpoint (hosted by ABES)
-permalink: /sparql_endpoint/endpoint_description
+title: Semantic Data for Humanities and Social Sciences
+permalink: /sparql-endpoint/endpoint-description
 ---
 
 
