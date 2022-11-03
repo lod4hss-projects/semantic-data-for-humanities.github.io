@@ -1,5 +1,5 @@
 ---
-permalink: /sparql_endpoint/prelib-v1
+permalink: /sparql-endpoint/prelib-v1
 ---
 
 
