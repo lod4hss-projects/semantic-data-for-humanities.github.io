@@ -12,8 +12,8 @@ permalink: /sparql-endpoint/prelib-v1
   <h3>Jeu de données converti en RDF</h3>
   
   <ul>
-    <li><a href="https://mshb.huma-num.fr/prelib/">Site original du projet</a></li>
-    <li><a href="https://crbc-dataset.huma-num.fr/">Site de publication</a> de données SQL interrogeable</li>
+    <li><a target="_blank" href="https://mshb.huma-num.fr/prelib/">Site original du projet</a></li>
+    <li><a target="_blank" href="https://crbc-dataset.huma-num.fr/">Site de publication</a> de données SQL interrogeable</li>
     <li><a href="https://github.com/Semantic-Data-for-Humanities/prelib-to-rdf/wiki">Documentation de la transformation</a></li>
   </ul>
 
