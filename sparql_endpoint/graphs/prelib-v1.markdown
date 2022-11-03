@@ -19,24 +19,35 @@ permalink: /sparql-endpoint/prelib-v1
 
   
 </div>
+
 <div>
   <h3>Exemples de requêtes</h3>
 <h4>List des classes avec effectifs</h4>
-  <p><code class="sparql">
-    SELECT ?class (COUNT(*) AS ?eff)  
-    WHERE {GRAPH <https://dataforhumanities.org/sparql-endpoint/prelib-v1> {?s a ?class}}
-    GROUP BY ?class
-    ORDER BY DESC(?eff)</code>
-  </p>
+
+<p>
+  <a href="https://dataforhumanities.abes.fr/sparql?default-graph-uri=&query=SELECT+%3Fclass+%28COUNT%28*%29+AS+%3Feff%29+WHERE+%7BGRAPH+%3Chttps%3A%2F%2Fdataforhumanities.org%2Fsparql-endpoint%2Fprelib-v1%3E+%7B%3Fs+a+%3Fclass%7D%7D+GROUP+BY+%3Fclass+ORDER+BY+DESC%28%3Feff%29&should-sponge=&format=text%2Fhtml&timeout=0&debug=on">
+    <code>
+        SELECT ?class (COUNT(*) AS ?eff)<br/>
+        WHERE {GRAPH <https://dataforhumanities.org/sparql-endpoint/prelib-v1> {?s a ?class}}
+        <br/>
+        GROUP BY ?class
+<br/>
+        ORDER BY DESC(?eff)
+      </code>
+    </a>  
+  
+</p>
 
   <h4>Liste des propriétés avec effectifs</h4>
-  <p><code class="sparql">
+  <p>
+  <a href="https://dataforhumanities.abes.fr/sparql?default-graph-uri=&query=SELECT+%3Fproperty+%28COUNT%28*%29+AS+%3Feff%29+WHERE+%7BGRAPH+%3Chttps%3A%2F%2Fdataforhumanities.org%2Fsparql-endpoint%2Fprelib-v1%3E+%7B%3Fs+%3Fproperty+%3Fo%7D%7D+GROUP+BY+%3Fproperty+ORDER+BY+DESC%28%3Feff%29+&should-sponge=&format=text%2Fhtml&timeout=0&debug=on">
+  <code>
     SELECT ?property (COUNT(*) AS ?eff) 
     WHERE {GRAPH <https://dataforhumanities.org/sparql-endpoint/prelib-v1> 
     {?s ?property ?o}}
     GROUP BY ?property
     ORDER BY DESC(?eff)
-  </code>
+  </code> </a>
   </p>
 
 
