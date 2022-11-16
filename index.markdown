@@ -10,6 +10,8 @@
 
 <a href="sparql-endpoint/endpoint-description">SPARQL-endpoint description</a>
 
+[SPARQL-endpoint description](sparql-endpoint/endpoint-description)
+
 ### Graphs
 
 <a href="sparql-endpoint/prelib-v1">PRELIB — Projet de recherche en littérature bretonne</a>
