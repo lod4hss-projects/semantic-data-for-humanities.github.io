@@ -1,5 +1,4 @@
 ---
-title: PRELIB v1
 permalink: /sparql-endpoint/prelib-v1
 ---
 
