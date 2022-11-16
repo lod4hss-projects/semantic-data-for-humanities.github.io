@@ -8,8 +8,6 @@
 
 ## SPARQL-endpoint (hosted by ABES)
 
-<a href="sparql-endpoint/endpoint-description">SPARQL-endpoint description</a>
-
 [SPARQL-endpoint description](sparql-endpoint/endpoint-description)
 
 ### Graphs
