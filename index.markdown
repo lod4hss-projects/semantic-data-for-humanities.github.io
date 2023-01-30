@@ -5,6 +5,7 @@
 
 ## Projects
 
+[ANR HisArc-RDF](projects/hisarc-rdf)
 
 ## SPARQL-endpoint (hosted by ABES)
 
