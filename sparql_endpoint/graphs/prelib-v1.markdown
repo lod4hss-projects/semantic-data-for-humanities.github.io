@@ -50,10 +50,9 @@ permalink: /sparql-endpoint/prelib-v1
   <p>
   <a href="https://dataforhumanities.abes.fr/sparql?default-graph-uri=&query=SELECT+%3Fproperty+%28COUNT%28*%29+AS+%3Feff%29+WHERE+%7BGRAPH+%3Chttps%3A%2F%2Fdataforhumanities.org%2Fsparql-endpoint%2Fprelib-v1%3E+%7B%3Fs+%3Fproperty+%3Fo%7D%7D+GROUP+BY+%3Fproperty+ORDER+BY+DESC%28%3Feff%29+&should-sponge=&format=text%2Fhtml&timeout=0&debug=on">
   <code>
-    
-    prefix cidoc: <http://www.cidoc-crm.org/cidoc-crm/>
-    select ?s where { ?s rdf:type cidoc:E21_Person . }
-    limit 50
+    PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/>
+    SELECT ?s WHERE { ?s rdf:type cidoc:E21_Person . }
+    LIMI 50
   </code> </a>
   </p>
 
@@ -62,15 +61,14 @@ permalink: /sparql-endpoint/prelib-v1
   <p>
   <a href="https://dataforhumanities.abes.fr/sparql?default-graph-uri=&query=SELECT+%3Fproperty+%28COUNT%28*%29+AS+%3Feff%29+WHERE+%7BGRAPH+%3Chttps%3A%2F%2Fdataforhumanities.org%2Fsparql-endpoint%2Fprelib-v1%3E+%7B%3Fs+%3Fproperty+%3Fo%7D%7D+GROUP+BY+%3Fproperty+ORDER+BY+DESC%28%3Feff%29+&should-sponge=&format=text%2Fhtml&timeout=0&debug=on">
   <code>
-    
-    select (count(*) as ?eff) ?g ?p ?class
-    where 
+    SELECT (COUNT(*) as ?eff) ?g ?p ?class
+    WHERE 
     {graph ?g 
     { ?s a http://www.cidoc-crm.org/cidoc-crm/E21_Person; ?p ?o.
     ?o a ?class.
     FILTER  (?p not in (rdf:type, rdfs:label))
     } 
-    } group by ?g ?p ?class
+    } GROUP BY ?g ?p ?class
   </code> </a>
   </p>
 
