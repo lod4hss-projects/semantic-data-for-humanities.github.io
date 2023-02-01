@@ -30,11 +30,8 @@ permalink: /sparql-endpoint/prelib-v1
         WHERE {GRAPH <https://dataforhumanities.org/sparql-endpoint/prelib-v1> {?s a ?class}}
         <br/>
         GROUP BY ?class
-<br/>
         ORDER BY DESC(?eff)
-      </code>
-    </a>  
-  
+      </code> </a>  
 </p>
 
   <h4>Liste des propriétés avec effectifs</h4>
