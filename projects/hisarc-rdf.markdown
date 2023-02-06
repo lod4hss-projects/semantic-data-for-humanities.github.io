@@ -12,6 +12,7 @@ Le site dataforhumanities.org a été créé dans le cadre de ce projet pour met
 - [Documentation](#documentation)
   - [Jeux de données Archeodunum, Bibracte et Marges arides](#doc1)
   - [Jeu de données PRELIB](#doc2)
+  - [Connecteur OntoME-Opentheso](#doc3)
 - [Outils et applications](#outils)
 
 ## Partenaires <a name="partenaires"></a>
@@ -52,15 +53,11 @@ Passé la preuve de concept, cette même chaîne opératoire pourrait être prop
 
 ## Outils et applications <a name="outils"></a>
 
-- Environnement de gestion d'ontologies OntoME (développé par le LARHRA dans le cadre du consortium Geovistory) : https://ontome.net/
-- Gestionnaire de thesaurus Openthesau (développé par la MOM) : https://opentheso.hypotheses.org/
+- Environnement de gestion d'ontologies **OntoME** (développé par le LARHRA dans le cadre du consortium Geovistory) : https://ontome.net/
+- Gestionnaire de thesaurus **Openthesau** (développé par la MOM) : https://opentheso.hypotheses.org/
   - Thesaurus Hypethesau : https://thesaurus.mom.fr/opentheso/?idt=25
   - Thesaurus OntoME : https://ontomeopentheso.mom.fr/ontomeopentheso/?idt=th8
-- Environnement virtuel de recherche Geovistory (développé par KleioLab et le LARHRA dans le cadre du consortium Geovistory) : https://www.geovistory.org/
-- Point d'accès SPARQL (mis à disposition par l'ABES) : https://dataforhumanities.org/sparql-endpoint/endpoint-description
+- Environnement virtuel de recherche **Geovistory** (développé par KleioLab et le LARHRA dans le cadre du consortium Geovistory) : https://www.geovistory.org/
+- Point d'accès **SPARQL** (mis à disposition par l'ABES) : https://dataforhumanities.org/sparql-endpoint/endpoint-description
   - Graphe PRELIB : https://dataforhumanities.org/sparql-endpoint/prelib-v1
-  - Graphe Archeodunum : https://dataforhumanities.org/sparql-endpoint/vienne-2018 
-
-
-
-
+  - Graphe Archeodunum : https://dataforhumanities.org/sparql-endpoint/vienne-2018
