@@ -54,7 +54,7 @@ Passé la preuve de concept, cette même chaîne opératoire pourrait être prop
 ## Outils et applications <a name="outils"></a>
 
 - Environnement de gestion d'ontologies **OntoME** (développé par le LARHRA dans le cadre du consortium Geovistory) : [https://ontome.net/](https://ontome.net/)
-- Gestionnaire de thesaurus **Openthesau** (développé par la MOM) : [https://opentheso.hypotheses.org/](https://opentheso.hypotheses.org/)
+- Gestionnaire de thesaurus **Opentheso** (développé par la MOM) : [https://opentheso.hypotheses.org/](https://opentheso.hypotheses.org/)
   - Thesaurus Hypethesau : [https://thesaurus.mom.fr/opentheso/?idt=25](https://thesaurus.mom.fr/opentheso/?idt=25)
   - Thesaurus OntoME : [https://ontomeopentheso.mom.fr/ontomeopentheso/?idt=th8](https://ontomeopentheso.mom.fr/ontomeopentheso/?idt=th8)
 - Environnement virtuel de recherche **Geovistory** (développé par KleioLab et le LARHRA dans le cadre du consortium Geovistory) : [https://www.geovistory.org/](https://www.geovistory.org/)
