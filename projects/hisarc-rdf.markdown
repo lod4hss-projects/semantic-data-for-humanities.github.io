@@ -1,10 +1,16 @@
-## Projet HisArc-RDF
+# Projet HisArc-RDF
 
 Partage et réutilisation de données archéologiques et historiques : une description en RDF appuyée sur les référentiels et les normes du web sémantique.
 
 Ce projet est financé par l'[Agence nationale de la recherche](https://anr.fr/fr/lanr/engagements/la-science-ouverte/les-projets-laureats-de-lappel-flash-science-ouverte/projet-hisarc-rdf/) (2020-2022).
 
-### Partenaires
+## Sommaire
+- [Partenaires](#partenaires)
+- [Présentation](#presentation)
+- [Documentation](#documentation)
+- [Outils](#outils)
+
+## Partenaires <a name="partenaires"></a>
 
 - [Archéorient](https://www.archeorient.mom.fr/)
 - [LARHRA](https://larhra.ish-lyon.cnrs.fr/)
@@ -13,7 +19,7 @@ Ce projet est financé par l'[Agence nationale de la recherche](https://anr.fr/f
 - [Bibracte](https://www.bibracte.fr)
 - [Archéodunum](https://www.archeodunum.com)
 
-### Présentation
+## Présentation <a name="presentation"></a>
 
 Porté par le laboratoire Archéorient et le LARHRA, le projet HisArc-RDF réunit un consortium pluridisciplinaire : archéologie, histoire, géographie, terminologie, bibliographie et informatique.
 
@@ -29,6 +35,9 @@ En fin de chaîne, les données hétérogènes ainsi traitées seront déposées
 
 Passé la preuve de concept, cette même chaîne opératoire pourrait être proposée à d’autres bases géo-historiques issues de différents projets de recherche qui pourront ainsi facilement s’interconnecter avec les données d’autres projets et répondre, de cette façon, à la demande institutionnelle forte d’ouverture des données de la recherche.
 
+## Documentation <a name="documentation"></a>
+
+## Outils <a name="outils"></a>
 
 
 
