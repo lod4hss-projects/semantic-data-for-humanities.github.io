@@ -4,11 +4,15 @@ Partage et réutilisation de données archéologiques et historiques : une descr
 
 Ce projet est financé par l'[Agence nationale de la recherche](https://anr.fr/fr/lanr/engagements/la-science-ouverte/les-projets-laureats-de-lappel-flash-science-ouverte/projet-hisarc-rdf/) (2020-2022).
 
+Le site dataforhumanities.org a été créé dans le cadre de ce projet pour mettre en avant la preuve de concept proposée (cf. plus bas). Il s'appuie sur différents dépôts github et sur un point d'accès SPARQL mis à disposition par l'ABES.
+
 ## Sommaire
 - [Partenaires](#partenaires)
 - [Présentation](#presentation)
 - [Documentation](#documentation)
-- [Outils](#outils)
+  - [Jeux de données Archeodunum, Bibracte et Marges arides](#doc1)
+  - [Jeu de données PRELIB](#doc2)
+- [Outils et applications](#outils)
 
 ## Partenaires <a name="partenaires"></a>
 
@@ -37,7 +41,25 @@ Passé la preuve de concept, cette même chaîne opératoire pourrait être prop
 
 ## Documentation <a name="documentation"></a>
 
-## Outils <a name="outils"></a>
+### Jeux de données Archeodunum, Bibracte et Marges arides <a name="doc1"></a>
+- [Wiki de la page github du projet](https://github.com/Semantic-Data-for-Humanities/HisArc-RDF/wiki)
+
+### Jeu de données PRELIB <a name="doc2"></a>
+- [Wiki du projet d'alignement](https://github.com/Semantic-Data-for-Humanities/prelib-to-rdf/wiki)
+
+### Connecteur OntoME-Opentheso <a name="doc3"></a>
+- [Présentation](https://github.com/Semantic-Data-for-Humanities/HisArc-RDF/blob/main/OntoME_Opentheso_Connection_202301.pdf)
+
+## Outils et applications <a name="outils"></a>
+
+- Environnement de gestion d'ontologies OntoME (développé par le LARHRA dans le cadre du consortium Geovistory) : https://ontome.net/
+- Gestionnaire de thesaurus Openthesau (développé par la MOM) : https://opentheso.hypotheses.org/
+  - Thesaurus Hypethesau : https://thesaurus.mom.fr/opentheso/?idt=25
+  - Thesaurus OntoME : https://ontomeopentheso.mom.fr/ontomeopentheso/?idt=th8
+- Environnement virtuel de recherche Geovistory (développé par KleioLab et le LARHRA dans le cadre du consortium Geovistory) : https://www.geovistory.org/
+- Point d'accès SPARQL (mis à disposition par l'ABES) : https://dataforhumanities.org/sparql-endpoint/endpoint-description
+  - Graphe PRELIB : https://dataforhumanities.org/sparql-endpoint/prelib-v1
+  - Graphe Archeodunum : https://dataforhumanities.org/sparql-endpoint/vienne-2018 
 
 
 
