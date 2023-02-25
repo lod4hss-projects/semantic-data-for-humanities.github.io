@@ -21,7 +21,7 @@ permalink: /sparql-endpoint/prelib-v1
 
 <div>
   <h3>Exemples de requêtes</h3>
-<h4>List des classes avec effectifs</h4>
+<h4>Liste des classes avec effectifs</h4>
 
 <p>
   <a href="https://dataforhumanities.abes.fr/sparql?default-graph-uri=&query=SELECT+%3Fclass+%28COUNT%28*%29+AS+%3Feff%29+WHERE+%7BGRAPH+%3Chttps%3A%2F%2Fdataforhumanities.org%2Fsparql-endpoint%2Fprelib-v1%3E+%7B%3Fs+a+%3Fclass%7D%7D+GROUP+BY+%3Fclass+ORDER+BY+DESC%28%3Feff%29&should-sponge=&format=text%2Fhtml&timeout=0&debug=on">
