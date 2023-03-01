@@ -1,0 +1,17 @@
+style: is-light
+items:
+  - title: Points d'accès
+    subtitle: Consultez des jeux de données
+    icon: fa-database
+    call_to_action_name: Points d'accès
+    call_to_action_link: /guides/more_about_fair/
+  - title: Projets aboutis
+    subtitle: Consultez leur documentation
+    icon: fa-book
+    call_to_action_name: Projets aboutis
+    call_to_action_link: /guides/good_practice/
+  - title: Chantiers en cours
+    subtitle: Consultez leur documentation
+    icon: fa-hammer
+    call_to_action_name: Chantiers en cours
+    call_to_action_link: /guides/road_map/
