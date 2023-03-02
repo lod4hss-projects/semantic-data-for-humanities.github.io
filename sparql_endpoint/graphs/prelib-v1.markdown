@@ -52,7 +52,7 @@ permalink: /sparql-endpoint/prelib-v1
   <code>
     PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/>
     SELECT ?s WHERE { ?s rdf:type cidoc:E21_Person . }
-    LIMI 50
+    LIMIT 50
   </code> </a>
   </p>
 
