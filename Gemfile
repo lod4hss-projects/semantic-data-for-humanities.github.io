@@ -32,6 +32,9 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "webrick", "~> 1.8"
-gem "bulma-clean-theme"
-#gem "jekyll-multiple-languages-plugin"
+# Deactivating "webrick" and "bulma-clean-theme" here. Uncomment both to run locally.
+# gem "webrick", "~> 1.8"
+# gem "bulma-clean-theme"
+
+# As a reference for next upgrade. Do not uncomment yet.
+# gem "jekyll-multiple-languages-plugin"
