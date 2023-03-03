@@ -33,7 +33,7 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # Deactivating "webrick" and "bulma-clean-theme" here. Uncomment both to run locally.
-# gem "webrick", "~> 1.8"
+gem "webrick", "~> 1.8"
 # gem "bulma-clean-theme"
 
 # As a reference for next upgrade. Do not uncomment yet.
