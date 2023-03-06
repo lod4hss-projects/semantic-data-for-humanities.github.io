@@ -57,7 +57,7 @@ Les [principes FAIR](https:www.go-fair.org/fair-principles/) ont pour finalité�
 * Voici l'entrée de la page dans le menu de catégorie `/_data/menu_guides.yml` :
 ```yml
     - name: Les données FAIR
-      link: /guides/more_about_fair/
+      link: /guides/more-about-fair
 ```
 
 ## Récapitulatif

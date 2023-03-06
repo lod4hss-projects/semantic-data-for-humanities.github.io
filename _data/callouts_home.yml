@@ -4,15 +4,15 @@ items:
     subtitle: Consultez nos guides pour les SHS
     icon: fa-book
     call_to_action_name: Les données FAIR
-    call_to_action_link: /guides/more-about-fair/
+    call_to_action_link: /guides/more-about-fair
   - title:
     subtitle: Apprenez comment FAIRifier des données
     icon: fa-forward
     call_to_action_name: Retro-FAIR
-    call_to_action_link: /guides/road-map/
+    call_to_action_link: /guides/road-map
   - title:
     subtitle: Consultez leurs données et documentation
     icon: fa-database
     call_to_action_name: Projets
-    call_to_action_link: /projects/projects-landing/
+    call_to_action_link: /projects/projects-landing
     

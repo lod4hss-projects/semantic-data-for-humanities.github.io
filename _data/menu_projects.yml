@@ -1,20 +1,20 @@
 - label: Informations
   items:
     - name: Retour à la liste des projets
-      link: /projects/projects-landing/
+      link: /projects/projects-landing
 - label: Projets Wiki
   items:
     - name: Défi données MaDICS-ADOC 2018
-      link: /projects/madis-adoc/
+      link: /projects/madis-adoc
     - name: ANR HisArc-RDF
-      link: /projects/hisarc-rdf/
+      link: /projects/hisarc-rdf
 #    - name: Répertoire des professeurs et principaux de la faculté des arts de Paris aux XVIIe et XVIIIe siècles (Boris Noguès)
-#      link: /projects/profs_paris/
+#      link: /projects/profs-paris
 #    - name: Base des syndicats patronaux en Rhône-Alpes (XIXe-XXe siècles)
-#      link: /projects/syndic_patrons/
+#      link: /projects/syndic-patrons
 #    - name: Répertoire des membres de l'Institut des actuaires français (1967)
-#      link: /projects/actuaires/
+#      link: /projects/actuaires
 #    - name: Prosopographie des Chanoines réguliers de Notre-Sauveur (XVIIe-XVIIIe siècles)
-#      link: /projects/chanoines/
+#      link: /projects/chanoines
 #    - name: La maison médiévale à Tolède
-#      link: /projects/tolede/
+#      link: /projects/tolede
