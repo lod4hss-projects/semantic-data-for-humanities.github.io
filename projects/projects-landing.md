@@ -10,5 +10,5 @@ layout: page
 
 # Projets présentés ici
 
-* [Défi données MaDIS-ADOC 2018](/projects/madis_adoc)
-* [ANR HisArc-RDF](/projects/hisarc_rdf)
+* [Défi données MaDIS-ADOC 2018](/projects/madis-adoc)
+* [ANR HisArc-RDF](/projects/hisarc-rdf)
