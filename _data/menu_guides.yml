@@ -1,10 +1,10 @@
 - label: Guides du FAIR
   items:
     - name: Les données FAIR
-      link: /guides/more_about_fair/
+      link: /guides/more-about-fair/
     - name: Les bonnes pratiques
-      link: /guides/good_practices/
+      link: /guides/good-practices/
     - name: Feuille de route
-      link: /guides/road_map/
+      link: /guides/road-map/
     - name: Ressources
       link: /guides/resources/

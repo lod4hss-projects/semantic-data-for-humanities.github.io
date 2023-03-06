@@ -1,7 +1,7 @@
 - label: Informations générales
   items:
     - name: Les points d'accès SPARQL
-      link: /sparql/sparql_landing/
+      link: /sparql/sparql-landing/
 - label: Point d'accès de l'ABES
   items:
     - name: Description du point d'accès

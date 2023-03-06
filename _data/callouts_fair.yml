@@ -4,15 +4,15 @@ items:
   - title: Les données FAIR
     icon: fa-book
     call_to_action_name: Consultez les informations
-    call_to_action_link: /guides/more_about_fair/
+    call_to_action_link: /guides/more-about-fair/
   - title: Bonnes pratiques
     icon: fa-hammer
     call_to_action_name: Apprenez à appliquer le FAIR
-    call_to_action_link: /guides/good_practices/
+    call_to_action_link: /guides/good-practices/
   - title: Retro-FAIRification
     icon: fa-forward
     call_to_action_name: Apprenez à FAIRifier des données
-    call_to_action_link: /guides/road_map/
+    call_to_action_link: /guides/road-map/
   - title: Ressources
     icon: fa-link
     call_to_action_name: Ressources et exemples

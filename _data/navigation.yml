@@ -1,8 +1,8 @@
 - name: Nos guides
-  link: /guides/more_about_fair/
+  link: /guides/more-about-fair/
 - name: Données
-  link: /sparql/sparql_landing/
+  link: /sparql/sparql-landing/
 - name: Projets
-  link: /projects/projects_landing/
+  link: /projects/projects-landing/
 - name: À propos
   link: /about/
