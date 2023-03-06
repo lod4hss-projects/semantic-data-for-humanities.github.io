@@ -33,8 +33,8 @@ Mise à part la page d'accueil `index.md` et la page d'informations `about.md`, 
 
 Par exemple, pour la page d'information sur les principes FAIR :
 
-* La page est à l'emplacement `/guides/more_about_fair.md`.
-* Voici le début du fichier  `/guides/more_about_fair.md` :
+* La page est à l'emplacement `/guides/more-about-fair.md`.
+* Voici le début du fichier  `/guides/more-about-fair.md` :
 ```md
 ---
 title: Data For Humanities
