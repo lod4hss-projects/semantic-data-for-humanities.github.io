@@ -36,6 +36,6 @@ Les principes FAIR signifient que les données sur lesquelles les chercheurs tra
 
 ## Liens et ressources utiles
 
-Vous retrouverez ici une **[documentation](/more_about_fair.md)** pour aller plus loin dans la compréhension et l’articulation des différentes étapes pour produire des données FAIR.
+Vous retrouverez ici une **[documentation](/more-about-fair.md)** pour aller plus loin dans la compréhension et l’articulation des différentes étapes pour produire des données FAIR.
 
 Vous trouverez ici des **[ressources et exemples](/resources.md)** autour de la FAIRisation.
