@@ -1,6 +1,6 @@
 # About this repository
 
-À remplir.
+This repository is the base for the website [https://dataforhumanities.org/](https://dataforhumanities.org/).
 
 # Comment ajouter du contenu
 
