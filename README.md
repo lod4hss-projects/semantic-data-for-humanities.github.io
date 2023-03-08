@@ -35,30 +35,30 @@ Par exemple, pour la page d'information sur les principes FAIR :
 
 * La page est à l'emplacement `/guides/more-about-fair.md`.
 * Voici le début du fichier  `/guides/more-about-fair.md` :
-```md
----
-title: Data For Humanities
-subtitle: Les principes FAIR
-layout: page
-toc: true
-menubar: menu_guides
-toc_title: Contenu
----
-
-
-# Les principes FAIR
-
-------------------------------------------
-
-## Projet "FAIR data" en sciences historiques
-
-Les [principes FAIR](https:www.go-fair.org/fair-principles/) ont pour finalité…
-```
+	```md
+	---
+	title: Data For Humanities
+	subtitle: Les principes FAIR
+	layout: page
+	toc: true
+	menubar: menu_guides
+	toc_title: Contenu
+	---
+	
+	
+	# Les principes FAIR
+	
+	------------------------------------------
+	
+	## Projet "FAIR data" en sciences historiques
+	
+	Les [principes FAIR](https:www.go-fair.org/fair-principles/) ont pour finalité…
+	```
 * Voici l'entrée de la page dans le menu de catégorie `/_data/menu_guides.yml` :
-```yml
-    - name: Les données FAIR
-      link: /guides/more-about-fair
-```
+	```yml
+	    - name: Les données FAIR
+	      link: /guides/more-about-fair
+	```
 
 ## Récapitulatif
 
