@@ -66,7 +66,7 @@ Les [principes FAIR](https:www.go-fair.org/fair-principles/) ont pour finalité�
 | ------- | ---------- | -------- | -------|
 | Guides | `/guides` | `subtitle: Les principes FAIR` | `menubar: menu_guides` |
 | Projets | `/projects` | `subtitle: Projets` | `menubar: menu_projects` |
-| Données SPARQL | `/sparql` | `subtitle: Points d'accès à des données` | `menubar: menu_sparql` |
+| Données SPARQL | `/sparql-endpoint` | `subtitle: Points d'accès à des données` | `menubar: menu_sparql` |
 * Attention à bien respecter la hiérarchie des titres en MarkDown pour que la table des matières soit générée correctement : `# Titre de page`, `## Titre de partie`, `### Titre de sous-partie`, etc. Ne sautez pas (par exemple) de `##` à `####` pour obtenir une mise en forme particulière, ou les `####` n'apparaîtront pas dans la table des matières.
 
 ------------
