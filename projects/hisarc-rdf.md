@@ -68,6 +68,6 @@ Passé la preuve de concept, cette même chaîne opératoire pourrait être prop
   - Thesaurus Hypethesau : [https://thesaurus.mom.fr/opentheso/?idt=25](https://thesaurus.mom.fr/opentheso/?idt=25)
   - Thesaurus OntoME : [https://ontomeopentheso.mom.fr/ontomeopentheso/?idt=th8](https://ontomeopentheso.mom.fr/ontomeopentheso/?idt=th8)
 - Environnement virtuel de recherche **Geovistory** (développé par KleioLab et le LARHRA dans le cadre du consortium Geovistory) : [https://www.geovistory.org/](https://www.geovistory.org/)
-- Point d'accès **SPARQL** (mis à disposition par l'ABES) : [https://dataforhumanities.org/sparql-endpoint/endpoint-description](https://dataforhumanities.org/sparql-endpoint/endpoint-description)
+- Point d'accès **SPARQL** (mis à disposition par l'ABES) : [https://dataforhumanities.org/sparql-endpoint/endpoint-description](https://dataforhumanities.abes.fr/sparql)
   - Graphe PRELIB : [https://dataforhumanities.org/sparql-endpoint/prelib-v1](https://dataforhumanities.org/sparql-endpoint/prelib-v1)
   - Graphe Archeodunum : [https://dataforhumanities.org/sparql-endpoint/vienne-2018](https://dataforhumanities.org/sparql-endpoint/vienne-2018)
