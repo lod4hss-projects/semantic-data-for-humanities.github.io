@@ -1,6 +1,6 @@
 - label: Guides du FAIR
   items:
-    - name: Les données FAIR
+    - name: Les principes FAIR
       link: /guides/more-about-fair
     - name: Les bonnes pratiques
       link: /guides/good-practices
