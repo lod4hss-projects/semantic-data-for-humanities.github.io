@@ -3,13 +3,13 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Data For Humanities
-subtitle: Projets aboutis
+subtitle: Projects
 menubar: menu_projects
 toc: true
 layout: page
 ---
 
-# Défi données MaDICS-ADOC 2018
+## Défi données MaDICS-ADOC 2018
 
 ------------------------------------------
 
