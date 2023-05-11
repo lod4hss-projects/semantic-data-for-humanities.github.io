@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Data For Humanities
-subtitle: Projets
+subtitle: Projects
 menubar: menu_projects
 toc: true
 layout: page
