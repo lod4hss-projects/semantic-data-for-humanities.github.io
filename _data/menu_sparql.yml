@@ -1,16 +1,16 @@
-- label: Informations générales
-  items:
-    - name: Les points d'accès SPARQL
-      link: /sparql-endpoint/sparql-landing
-- label: Point d'accès de l'ABES
+#- label: Informations générales
+#  items:
+#    - name: Les points d'accès SPARQL
+#      link: /sparql-endpoint/sparql-landing
+- label: ABES SPARQL endpoint
   items:
     - name: Description du point d'accès
       link: /sparql-endpoint/abes
     - name: PRELIB — Projet de recherche en littérature bretonne
       link: /sparql-endpoint/prelib-v1
-    - name: Fouilles à Vienne 2018
-      link: /sparql-endpoint/vienne
-- label: Point d'accès de Geovistory
+ #   - name: Fouilles à Vienne 2018
+ #     link: /sparql-endpoint/vienne
+- label: Geovistory SPARQL endpoints
   items:
     - name: Description du point d'accès
       link: /sparql-endpoint/geovistory
