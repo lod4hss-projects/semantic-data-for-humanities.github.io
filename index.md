@@ -9,12 +9,6 @@ toc_title: Contenu
 callouts: callouts_home
 ---
 
-## Data For History
-
-Welcome ! This website is about the FAIR principles in human sciences.
-
-----------
-
 ## Projet "FAIR data" en sciences historiques
 
 Le projet de FAIRisation des données, initié par l'Axe de recherche en histoire numérique du LARHRA (anciennement Pôle histoire numérique) en mars 2020, ouvert à tou-te-s les intéressé-e-s, est dédié à la mise à disposition de données FAIR en histoire et à la mise en place d'un processus méthodologique en adéquation avec cette finalité. 
