@@ -3,11 +3,11 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Data For Humanities
-subtitle: Points d'accès SPARQL
+subtitle: SPARQL endpoints
 menubar: menu_sparql
 layout: page
 ---
 
-## SPARQL-endpoint
+## SPARQL endpoints
 
-Bienvenue à la page des points d'accès
+Bienvenue à la page des points d'accès SPARQL géré par l'ABES et la communauté Geovistory.
