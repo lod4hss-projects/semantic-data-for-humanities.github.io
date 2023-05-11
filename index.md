@@ -17,4 +17,4 @@ Cet site est particulièrement dédié à des données existantes que l'on souha
 Découvrez :
 - Les différents [projets de FAIRification](/projects/projects-landing).
 - Les données disponibles via un [point d'accès SPARQL](/sparql-endpoint/sparql-landing).
-- La [documentation et des guides](/guides/more-about-faire) de bonne pratique.
+- La [documentation et des guides](/guides/more-about-faire) des bonnes pratiques.
