@@ -3,8 +3,8 @@
 # To modify the layout, see https:__jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Data For Humanities
-subtitle: Les principes FAIR
-toc: true
+subtitle: The FAIR principles
+toc: false
 menubar: menu_guides
 layout: page
 ---
@@ -16,7 +16,7 @@ layout: page
 
 La première étape consiste à prendre connaissance du contenu des données que l'on veut restructurer pour les transformer en données FAIR.
 
-Voici un petit script Python qui facilite les choses lorsqu'on doit traiter des données stockées sous forme de tableau dans un tableur. Il permet de prendre connaissance contenu des données contenu dans un ou des tableurs excel (si on dispose d'un fichier .ods ou .csv il suffit de le convertir avec LibreOffice). Le fichier à télécharger  ([ici](https:__phn-wiki.ish-lyon.cnrs.fr/lib/exe/fetch.php?media=fairdata:exploration_donnees.zip)) est zippé, il doit donc être décompressé.
+Voici un petit script Python qui facilite les choses lorsqu'on doit traiter des données stockées sous forme de tableau dans un tableur. Il permet de prendre connaissance contenu des données contenu dans un ou des tableurs excel (si on dispose d'un fichier .ods ou .csv il suffit de le convertir avec LibreOffice). Le fichier à télécharger  ([ici](https://wiki-arhn.larhra.fr/lib/exe/fetch.php?media=fairdata:exploration_donnees.zip)) est zippé, il doit donc être décompressé.
 
 Le script permet d'obtenir : 
   * à partir d'un tableur avec une seule feuille un autre tableur dont chaque feuille contient la distribution des modalités contenu dans cette colonne. Ainsi, si le tableur de départ contenait un tableau avec 6 colonnes, le fichier de sortie contiendra 6 feuilles et dans chacune d'elle la liste des modalités apparaissant dans la colonne et le nombre d'occurrence de chacune de ces modalités.
