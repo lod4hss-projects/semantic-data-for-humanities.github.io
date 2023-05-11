@@ -9,7 +9,7 @@ toc: true
 layout: page
 ---
 
-# Projet HisArc-RDF
+## Projet HisArc-RDF
 
 > Partage et réutilisation de données archéologiques et historiques : une description en RDF appuyée sur les référentiels et les normes du web sémantique.
  
@@ -19,7 +19,7 @@ Le site dataforhumanities.org a été créé dans le cadre de ce projet pour met
 
 ----------------
 
-## Partenaires
+### Partenaires
 
 - [Archéorient](https://www.archeorient.mom.fr/)
 - [LARHRA](https://larhra.ish-lyon.cnrs.fr/)
@@ -30,7 +30,7 @@ Le site dataforhumanities.org a été créé dans le cadre de ce projet pour met
 
 ----------------
 
-## Présentation
+### Présentation
 
 Porté par le laboratoire Archéorient et le LARHRA, le projet HisArc-RDF réunit un consortium pluridisciplinaire : archéologie, histoire, géographie, terminologie, bibliographie et informatique.
 
@@ -48,20 +48,20 @@ Passé la preuve de concept, cette même chaîne opératoire pourrait être prop
 
 ----------------
 
-## Documentation
+### Documentation
 
-### Jeux de données Archeodunum, Bibracte et Marges arides
+#### Jeux de données Archeodunum, Bibracte et Marges arides
 - [Wiki de la page github du projet](https://github.com/Semantic-Data-for-Humanities/HisArc-RDF/wiki)
 
-### Jeu de données PRELIB
+#### Jeu de données PRELIB
 - [Wiki du projet d'alignement](https://github.com/Semantic-Data-for-Humanities/prelib-to-rdf/wiki)
 
-### Connecteur OntoME-Opentheso
+#### Connecteur OntoME-Opentheso
 - [Présentation](https://github.com/Semantic-Data-for-Humanities/HisArc-RDF/blob/main/OntoME_Opentheso_Connection_202301.pdf)
 
 ----------------
 
-## Outils et applications
+### Outils et applications
 
 - Environnement de gestion d'ontologies **OntoME** (développé par le LARHRA dans le cadre du consortium Geovistory) : [https://ontome.net/](https://ontome.net/)
 - Gestionnaire de thesaurus **Opentheso** (développé par la MOM) : [https://opentheso.hypotheses.org/](https://opentheso.hypotheses.org/)
