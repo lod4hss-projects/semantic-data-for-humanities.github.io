@@ -4,7 +4,7 @@
 #      link: /sparql-endpoint/sparql-landing
 - label: ABES SPARQL endpoint
   items:
-    - name: Description du point d'accès
+    - name: Endpoint description
       link: /sparql-endpoint/abes
     - name: PRELIB — Projet de recherche en littérature bretonne
       link: /sparql-endpoint/prelib-v1
@@ -12,6 +12,6 @@
  #     link: /sparql-endpoint/vienne
 - label: Geovistory SPARQL endpoints
   items:
-    - name: Description du point d'accès
+    - name: Endpoint description
       link: /sparql-endpoint/geovistory
 
