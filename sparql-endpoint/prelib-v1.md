@@ -48,10 +48,10 @@ ORDER BY DESC(?eff)
 
 ### Entités Personnes du corpus
 
-Voir les [résultats de la requête](https://dataforhumanities.abes.fr/sparql?default-gr[aph-uri=&query=prefix+cidoc%3A+%3Chttp%3A%2F%2Fwww.cidoc-crm.org%2Fcidoc-crm%2F%3E%0D%0Aselect+%3Fs+where+%7B+%3Fs+rdf%3Atype+cidoc%3AE21_Person+.+%7D%0D%0Alimit+50&should-sponge=&format=text%2Fhtml&timeout=0&debug=on).
+Voir les [résultats de la requête](https://dataforhumanities.abes.fr/sparql?default-gr[aph-uri=&query=prefix+cidoc%3A+%3Chttp%3A%2F%2Fwww.cidoc-crm.org%2Fcidoc-crm%2F%3E%0D%0Aselect+%3Fs+where+%7B+%3Fs+rdf%3Atype+cidoc%3AE21+.+%7D%0D%0Alimit+50&should-sponge=&format=text%2Fhtml&timeout=0&debug=on).
 ```sparql
 PREFIX cidoc: <http://www.cidoc-crm.org/cidoc-crm/>
-SELECT ?s WHERE { ?s rdf:type cidoc:E21_Person . }
+SELECT ?s WHERE { ?s rdf:type cidoc:E21 . }
 LIMIT 50
 ```
 
