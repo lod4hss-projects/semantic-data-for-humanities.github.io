@@ -13,7 +13,7 @@ layout: page
 
 ------------------------------------------
 
-## Responsables
+### Responsables
 
 > **Francesco Beretta** (1), **François Mistral** (2)
 >
@@ -23,7 +23,7 @@ layout: page
 
 ------------------------------------------
 
-## Présentation du défi
+### Présentation du défi
 
 Le défi a été lancé lors de la journée Variété des données SHS, Nantes, 28 mai 2018, atelier associé à la conférence INFORSID 2018
 
@@ -31,7 +31,7 @@ Le défi a été lancé lors de la journée Variété des données SHS, Nantes, 
 
 Adresse courte pour ces pages: [https://tinyurl.com/data-challenge-2018](https://tinyurl.com/data-challenge-2018)
 
-### Données
+#### Données
 
 Le [projet SIPROJURIS](http://siprojuris.symogih.org/), dirigé par Catherine Fillon, maître de conférences en histoire du droit (Université Jean Monnet-Saint Etienne), et Emmanuelle Picard, maître de conférences en histoire (École Normale Supérieure de Lyon), a pour but de constituer un système d'information dédié à l'enseignement du droit en France au 19e et 20e siécles.
 
@@ -45,13 +45,13 @@ Ce graphe contient 8310 informations concernant 567 professeurs. L'ontologie uti
 
 Concernant les acteurs de la population, un alignement avec le [référentiel IdREF](https://www.idref.fr/) est en cours de réalisation en collaboration avec l'Agence bibliographique de l'enseignement supérieur (ABES). Il permet d'entrer pleinement dans la logique des //linked open data//: en effet, à partir de cet alignement, qui rend accessibles les passerelles représentées par ISNI et VIAF, d'autres ressources publiant des LOD, telles les données de la BNF, Wikidata, etc. deviennent accessibles. Dans le site du projet SIPROJURIS lui-même, les fiches des acteurs liés au référentiel IdREF sont enrichies avec les données issues directement du catalogue du SUDOC (également une ressource LOD): dans l'onglet //Bibliographie externe// de la fiche biographique d'un acteur (cf. par ex. [Jean Appleton](http://siprojuris.symogih.org/siprojuris/enseignant/44317)), on trouvera la liste des ouvrages et publications issues du SUDOC.
 
-### Partie I du défi: Enrichir les données
+#### Partie I du défi: Enrichir les données
 
 Dans cette partie du défi, il s'agit d'enrichir les données avec d'autres ressources du web, sous forme de LOD ou en les extrayant de textes avec les méthodes de TALN.
 
 Sur **[cette page](siprojuris:enrichir_les_donnes_avec_LOD)** on trouvera quelques pistes illustrant la manière de connecter les données SIPROJURIS avec d'autres données LOD afin d'élargir la population de professeurs étudiée et d'enrichir les informations disponibles.
 
-### Partie II du défi: Analyser et visualiser les données
+#### Partie II du défi: Analyser et visualiser les données
 
 Dans cette partie, il s'agit d'analyser et de visualiser les données afin de répondre aux questions des historiens.
 
@@ -61,7 +61,7 @@ Sur **[cette page](siprojuris:defi_donnees_2018_questions_historiens)** on trouv
 
 ----------------------------------------------------------
 
-## La documentation du défi
+### La documentation du défi
 
 Un **pad** d'accompagnement du défi permettant de partager des questions, proposer des approches, etc. a été mis en place. Contacter les organisateurs pour y avoir accès.
 
@@ -71,14 +71,14 @@ Si des données issues de sources ouvertes, en complément aux données existant
 
 ----------------------------------------------------------
 
-## Un exemple: les données concernant un acteur
+### Un exemple: les données concernant un acteur
 
 
-### Le parcours biographique de Gaston Louis Henry May (1849 - 1940)
+#### Le parcours biographique de Gaston Louis Henry May (1849 - 1940)
 
 Cf. la [page](http://siprojuris.symogih.org/siprojuris/enseignant/56241) qui lui est dédiée dans le projet SIPROJURIS.
 
-### Requête qui reconstitute son parcours biographique
+#### Requête qui reconstitute son parcours biographique
 
 Requête à coller dans le [point d'accès SPARQL](http://bhp-publi.ish-lyon.cnrs.fr:8888/sparql) du projet [symogih.org](http://symogih.org).
 
