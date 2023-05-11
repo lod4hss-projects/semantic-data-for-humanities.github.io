@@ -10,4 +10,4 @@ layout: page
 
 ## SPARQL endpoints
 
-Bienvenue à la page des points d'accès SPARQL géré par l'ABES et la communauté Geovistory.
+Bienvenue à la page des points d'accès SPARQL gérés par l'ABES et la communauté Geovistory.
