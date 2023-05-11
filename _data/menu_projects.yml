@@ -1,13 +1,15 @@
-- label: Informations
+# - label: Informations
+#  items:
+#    - name: Retour à la liste des projets
+#      link: /projects/projects-landing
+- label: Liste des projets
   items:
-    - name: Retour à la liste des projets
-      link: /projects/projects-landing
-- label: Projets Wiki
-  items:
-    - name: Défi données MaDICS-ADOC 2018
-      link: /projects/madis-adoc
     - name: ANR HisArc-RDF
       link: /projects/hisarc-rdf
+    - name: Défi données MaDICS-ADOC 2018
+      link: /projects/madis-adoc
+    - name: PRELIB
+      link: /sparql-endpoint/prelib-v1
 #    - name: Répertoire des professeurs et principaux de la faculté des arts de Paris aux XVIIe et XVIIIe siècles (Boris Noguès)
 #      link: /projects/profs-paris
 #    - name: Base des syndicats patronaux en Rhône-Alpes (XIXe-XXe siècles)
