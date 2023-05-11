@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Data For Humanities
-subtitle: Les principes FAIR
+subtitle: The FAIR principles
 menubar: menu_guides
-toc: true
+toc: false
 layout: page
 ---
 
