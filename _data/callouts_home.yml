@@ -1,5 +1,4 @@
 style: is-light
-content: TEST
 items:
   - title:
     subtitle:
@@ -16,5 +15,3 @@ items:
     icon: fa-book
     call_to_action_name: FAIR principles
     call_to_action_link: /guides/more-about-fair
-
-    
