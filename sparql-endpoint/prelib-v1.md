@@ -5,7 +5,7 @@
 title: Data For Humanities
 subtitle: Points d'accès à des données
 menubar: menu_sparql
-toc: true
+toc: false
 layout: page
 ---
 
