@@ -11,4 +11,16 @@ layout: page
 
 # SPARQL-endpoint
 
-À remplir
+Geovistory est une plateforme de publication de données liées ouvertes dans une logique de réutilisation des données de la recherche, selon les principes FAIR.
+
+Deux types de points d'accès SPARQL existent, l'un pour l'ensemble des données de la communauté, l'autre pour les différents projets, apportant un point de vue spécifique sur l'information collectée.
+
+
+## Point d'accès SPARQL de la communauté Geovistory
+
+[Geovistory Community Open Data](https://www.geovistory.org/data)
+
+
+## Point d'accès SPARQL des projets
+
+* [ Tagebücher der Anna Maria Preiswerk-Iselin (1795-1839)](https://www.geovistory.org/project/924033/search)
