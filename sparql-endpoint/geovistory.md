@@ -23,4 +23,5 @@ Deux types de points d'accès SPARQL existent, l'un pour l'ensemble des données
 
 ## Point d'accès SPARQL des projets
 
-* [ Tagebücher der Anna Maria Preiswerk-Iselin (1795-1839)](https://www.geovistory.org/project/924033/search)
+* [Tagebücher der Anna Maria Preiswerk-Iselin (1795-1839)](https://www.geovistory.org/project/924033/search)
+* [Maritime History](https://www.geovistory.org/project/84760)
