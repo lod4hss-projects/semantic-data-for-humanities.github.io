@@ -13,3 +13,4 @@ layout: page
 * [ANR HisArc-RDF](/projects/hisarc-rdf)
 * [Défi données MaDIS-ADOC 2018](/projects/madis-adoc)
 * [PRELIB](/sparql-endpoint/prelib-v1)
+* [Projet symogih.org](/projects/symogih-projet)
