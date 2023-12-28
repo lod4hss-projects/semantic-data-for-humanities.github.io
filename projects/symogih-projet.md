@@ -5,7 +5,7 @@
 title: Data For Humanities
 subtitle: Points d'accès à des données
 menubar: menu_projects
-toc: true
+toc: false
 layout: page
 ---
 
@@ -22,7 +22,7 @@ Les informations de la base de données originale ont été transférées vers l
 
 ### Liste des graphes
 
-* [Graphe BHP](/sparql-enpoint/symogih-bhp)
-* [Graphe Types d'informations](/sparql-enpoint/symogih-kute)
-* [Graphe Siprojuris](/sparql-enpoint/siprojuris-sym)
-* [Graphe Héloise](/sparql-enpoint/heloise)
+* [Graphe BHP](/sparql-endpoint/symogih-bhp)
+* [Graphe Types d'informations](/sparql-endpoint/symogih-kute)
+* [Graphe Siprojuris](/sparql-endpoint/siprojuris-sym)
+* [Graphe Héloise](/sparql-endpoint/heloise)
