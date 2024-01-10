@@ -10,7 +10,7 @@ permalink: /about/
 Ce site est animé en collaboration par l'équipe [IdRef](https://www.idref.fr/) de l'ABES et l'[Axe de recherche en histoire numérique](http://larhra.ish-lyon.cnrs.fr/) du LARHRA.
 
 # Mentions légales
-- Directrice de la publication : Sophie Raux, directrice du LARHRA.
+- Directrice de la publication : Stéphane Frioux, directeur du LARHRA.
 - Responsables du site : Francesco Beretta, coresponsable scientifique du projet Geovistory ; François Mistral, responsable IdRef.
 
 # Fonctionnement
