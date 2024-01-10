@@ -11,17 +11,19 @@ layout: page
 
 # SPARQL-endpoint
 
-Geovistory est une plateforme de publication de données liées ouvertes dans une logique de réutilisation des données de la recherche, selon les principes FAIR.
+[Geovistory](https://www.geovistory.org/) est une plateforme de publication de données liées ouvertes dans une logique de réutilisation des données de la recherche, selon les principes FAIR.
 
 Deux types de points d'accès SPARQL existent, l'un pour l'ensemble des données de la communauté, l'autre pour les différents projets, apportant un point de vue spécifique sur l'information collectée.
 
 
 ## Point d'accès SPARQL de la communauté Geovistory
 
-[Geovistory Community Open Data](https://www.geovistory.org/data)
+[Geovistory Community Open Data](https://www.geovistory.org/sparql)
 
 
 ## Point d'accès SPARQL des projets
 
-* [Tagebücher der Anna Maria Preiswerk-Iselin (1795-1839)](https://www.geovistory.org/project/924033/search)
-* [Maritime History](https://www.geovistory.org/project/84760)
+* [Tagebücher der Anna Maria Preiswerk-Iselin (1795-1839)](https://www.geovistory.org/project/924033/sparql)
+* [Maritime History](https://www.geovistory.org/project/84760/sparql)
+* [Roma's Deportation](https://www.geovistory.org/project/3354801/sparql)
+* [Switzerland and Beyond](https://www.geovistory.org/project/153/sparql)
