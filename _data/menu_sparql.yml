@@ -8,6 +8,14 @@
       link: /sparql-endpoint/abes
     - name: PRELIB — Projet de recherche en littérature bretonne
       link: /sparql-endpoint/prelib-v1
+         - name: Graphe BHP
+           link: /sparql-endpoint/symogih-bhp
+    - name: Gra
+      link: /sparql-endpoint/symogih-kute
+    - name: d
+      link: /sparql-endpoint/siprojuris-sym
+    - name: c
+      link: /sparql-endpoint/heloise
  #   - name: Fouilles à Vienne 2018
  #     link: /sparql-endpoint/vienne
 - label: Geovistory SPARQL endpoints
