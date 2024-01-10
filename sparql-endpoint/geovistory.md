@@ -21,8 +21,9 @@ Deux types de points d'accès SPARQL existent, l'un pour l'ensemble des données
 [Geovistory Community Open Data](https://www.geovistory.org/sparql)
 
 
-## Point d'accès SPARQL des projets
+## Points d'accès SPARQL des projets
 
+* [Academic Education & Careers](https://www.geovistory.org/project/1483135/sparql)
 * [Tagebücher der Anna Maria Preiswerk-Iselin (1795-1839)](https://www.geovistory.org/project/924033/sparql)
 * [Maritime History](https://www.geovistory.org/project/84760/sparql)
 * [Roma's Deportation](https://www.geovistory.org/project/3354801/sparql)
