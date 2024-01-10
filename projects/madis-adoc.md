@@ -80,16 +80,16 @@ Cf. la [page](http://siprojuris.symogih.org/siprojuris/enseignant/56241) qui lui
 
 #### Requête qui reconstitute son parcours biographique
 
-Requête à coller dans le [point d'accès SPARQL](http://bhp-publi.ish-lyon.cnrs.fr:8888/sparql) du projet [symogih.org](http://symogih.org).
+Requête à coller dans le [point d'accès SPARQL](https://dataforhumanities.abes.fr/sparql) du projet dataforhumanities.org.
 
 ```sparql
 SELECT ?TyRoLabel ?infoStandardDate ?infoStandardLabel ?TyInLabel
 WHERE {
-GRAPH <http://symogih.org/graph/symogih-kute> {
+GRAPH <https://dataforhumanities.org/sparql-endpoint/symogih-kute> {
     ?tyro rdfs:label ?TyRoLabel.
     ?tyin rdfs:label ?TyInLabel.
         {
-        GRAPH <http://symogih.org/graph/siprojuris-sym> {
+        GRAPH <https://dataforhumanities.org/sparql-endpoint/siprojuris-sym> {
             ?s ?p syr:Actr56241;
                 sym:isComponentOf ?info;
                 sym:hasRoleType ?tyro.
