@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Data For Humanities
+title: LOD4HSS
 subtitle: A project for the semantisation and reuse of research data in HSS
 layout: page
 toc_title: Contenu
