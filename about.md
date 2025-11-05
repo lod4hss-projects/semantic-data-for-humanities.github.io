@@ -17,7 +17,7 @@ Ce site est animé en collaboration par l'équipe [IdRef](https://www.idref.fr/)
 
 Ce site est basé et déployé par [Git Pages](https://pages.github.com/) et utilise le thème [Bulma Clean Theme](https://www.csrhymes.com/bulma-clean-theme/) créé par [C.S. Rhymes](https://www.csrhymes.com/).
 
-Notre dépôt GitHub principal est [ici](https://github.com/Semantic-Data-for-Humanities/lod4hss-projects/semantic-data-for-humanities.github.io).
+Notre dépôt GitHub principal est [ici](https://github.com/lod4hss-projects/semantic-data-for-humanities.github.io).
 
 # Propriété intellectuelle
 
