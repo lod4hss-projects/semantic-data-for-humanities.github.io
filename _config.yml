@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Data For Humanities
+title: LOD4HSS
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This website is meant to help Humanities researchers apply the FAIR principles
