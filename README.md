@@ -1,6 +1,6 @@
 # About this repository
 
-This repository is the base for the website [https://dataforhumanities.org/](https://dataforhumanities.org/).
+This repository is the base for the website [https://lod4hss.org/](https://lod4hss.org/).
 
 # Comment ajouter du contenu
 
