@@ -1,23 +1,23 @@
 ---
 layout: page
-title: Data For Humanities
+title: LOD4HSS
 subtitle: À propos de ce site
 permalink: /about/
 ---
 
 # À propos de ce site
 
-Ce site est animé en collaboration par l'équipe [IdRef](https://www.idref.fr/) de l'ABES et l'[Axe de recherche en histoire numérique](http://larhra.ish-lyon.cnrs.fr/) du LARHRA.
+Ce site est animé en collaboration par l'équipe [IdRef](https://www.idref.fr/) de l'ABES et l'[Axe de recherche en histoire numérique](https://larhra.fr/axes-et-transversalites/axe-de-recherche-en-histoire-numerique/) du LARHRA.
 
 # Mentions légales
 - Directeur de la publication : Stéphane Frioux, directeur du LARHRA.
-- Responsables du site : Francesco Beretta, coresponsable scientifique du projet Geovistory ; François Mistral, responsable IdRef.
+- Responsables du site : Francesco Beretta, coresponsable scientifique du projet LOD4HSS ; François Mistral, responsable IdRef.
 
 # Fonctionnement
 
 Ce site est basé et déployé par [Git Pages](https://pages.github.com/) et utilise le thème [Bulma Clean Theme](https://www.csrhymes.com/bulma-clean-theme/) créé par [C.S. Rhymes](https://www.csrhymes.com/).
 
-Notre dépôt GitHub principal est [ici](https://github.com/Semantic-Data-for-Humanities).
+Notre dépôt GitHub principal est [ici](https://github.com/Semantic-Data-for-Humanities/lod4hss-projects/semantic-data-for-humanities.github.io).
 
 # Propriété intellectuelle
 
