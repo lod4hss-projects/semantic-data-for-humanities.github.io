@@ -11,7 +11,7 @@ Ce site est animé en collaboration par l'équipe [IdRef](https://www.idref.fr/)
 
 # Mentions légales
 - Directeur de la publication : Stéphane Frioux, directeur du LARHRA.
-- Responsables du site : Francesco Beretta, coresponsable scientifique du projet LOD4HSS ; François Mistral, responsable IdRef.
+- Responsables du site : Francesco Beretta, responsable scientifique du projet LOD4HSS ; François Mistral, responsable IdRef.
 
 # Fonctionnement
 

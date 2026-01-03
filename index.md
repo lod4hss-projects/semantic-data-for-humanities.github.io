@@ -10,6 +10,11 @@ toc_title: Contenu
 callouts:
 ---
 
+&nbsp;
+
+[ Please note that this website is currently undergoing a major redesign ]
+
+&nbsp;
 
 The LOD4HSS initiative, promoted by the [Laboratoire de Recherche Historique Rhône-Alpes (LARHRA, Lyon)](https://larhra.fr/) and the [Digital Humanities Chair at the University of Bern](https://www.dh.unibe.ch/), aims to establish a sustainable and vibrant community that manages an ecosystem of projects and infrastructures for research in the Humanities and Social Sciences based on semantic web technologies. Open to all interested institutions and projects, the initiative dates back to 2017, with the creation of the OntoME web platform ([ontome.net](https://ontome.net/)) and the launch of the Semantic Data for the Humanities and Social Sciences (SDHSS) project ([sdhss.org](https://ontome.net)). 
 
